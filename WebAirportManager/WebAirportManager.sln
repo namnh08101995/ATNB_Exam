@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAirportManager", "WebAirportManager\WebAirportManager.csproj", "{068C0F56-88CD-46DA-A4AE-57116E87BC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5CE7549F-CC2D-4BEC-8AEC-8EDB76F12FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{A8A7DC76-D0DB-43C8-85B0-85FEF572C21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068C0F56-88CD-46DA-A4AE-57116E87BC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068C0F56-88CD-46DA-A4AE-57116E87BC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068C0F56-88CD-46DA-A4AE-57116E87BC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068C0F56-88CD-46DA-A4AE-57116E87BC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE7549F-CC2D-4BEC-8AEC-8EDB76F12FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE7549F-CC2D-4BEC-8AEC-8EDB76F12FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE7549F-CC2D-4BEC-8AEC-8EDB76F12FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE7549F-CC2D-4BEC-8AEC-8EDB76F12FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A7DC76-D0DB-43C8-85B0-85FEF572C21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A7DC76-D0DB-43C8-85B0-85FEF572C21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A7DC76-D0DB-43C8-85B0-85FEF572C21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A7DC76-D0DB-43C8-85B0-85FEF572C21E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
