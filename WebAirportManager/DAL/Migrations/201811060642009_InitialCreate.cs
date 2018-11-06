@@ -12,8 +12,8 @@ namespace DAL.Migrations
                 c => new
                     {
                         AirplaneId = c.String(nullable: false, maxLength: 7),
-                        Model = c.String(nullable: false, maxLength: 255),
-                        PlaneType = c.String(nullable: false, maxLength: 255),
+                        Model = c.String(nullable: false, maxLength: 40),
+                        AirPlaneType = c.String(nullable: false, maxLength: 3),
                         CruiseSpeed = c.Double(),
                         EmptyWeight = c.Double(),
                         MaxTakeoffWeight = c.Double(),
@@ -40,7 +40,7 @@ namespace DAL.Migrations
                 c => new
                     {
                         HelicopterId = c.String(nullable: false, maxLength: 7),
-                        Model = c.String(nullable: false, maxLength: 255),
+                        Model = c.String(nullable: false, maxLength: 40),
                         CruiseSpeed = c.Double(),
                         EmptyWeight = c.Double(),
                         MaxTakeoffWeight = c.Double(),

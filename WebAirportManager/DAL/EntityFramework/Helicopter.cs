@@ -17,7 +17,7 @@ namespace DAL.EntityFramework
         public string HelicopterId { get; set; }
 
         [Required]
-        [StringLength(255)]
+        [StringLength(40)]
         public string Model { get; set; }
 
         public double? CruiseSpeed { get; set; }

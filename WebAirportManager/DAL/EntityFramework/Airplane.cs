@@ -17,17 +17,17 @@ namespace DAL.EntityFramework
         public string AirplaneId { get; set; }
 
         [Required]
-        [StringLength(255)]
+        [StringLength(40)]
         public string Model { get; set; }
 
         [Required]
-        [StringLength(255)]
-        public string PlaneType { get; set; }
-        
+        [StringLength(3)]
+        public string AirPlaneType { get; set; }
+
         public double? CruiseSpeed { get; set; }
-        
+
         public double? EmptyWeight { get; set; }
-        
+
         public double? MaxTakeoffWeight { get; set; }
 
         public double? MinNeededRunwaySize { get; set; }
@@ -36,5 +36,6 @@ namespace DAL.EntityFramework
         public string AirportId { get; set; }
 
         public virtual Airport Airport { get; set; }
+        
     }
 }
