@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,6 +31,9 @@ namespace DAL.EntityFramework
         public double? MaxTakeoffWeight { get; set; }
 
         public double? MinNeededRunwaySize { get; set; }
+
+        [ForeignKey("Airport")]
+        public string AirportId { get; set; }
 
         public virtual Airport Airport { get; set; }
     }

@@ -8,3 +8,5 @@ C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\bin\Debug\Enti
 C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\obj\Debug\DAL.dll
 C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\obj\Debug\DAL.pdb
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
