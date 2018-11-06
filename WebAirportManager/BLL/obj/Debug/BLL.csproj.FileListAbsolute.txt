@@ -1,0 +1,5 @@
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\BLL\bin\Debug\BLL.dll
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\BLL\bin\Debug\BLL.pdb
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\BLL\obj\Debug\BLL.dll
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\BLL\obj\Debug\BLL.pdb

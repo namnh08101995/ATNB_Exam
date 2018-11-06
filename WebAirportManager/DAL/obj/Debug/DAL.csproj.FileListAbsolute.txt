@@ -1,0 +1,10 @@
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\bin\Debug\DAL.dll.config
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\bin\Debug\DAL.dll
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\bin\Debug\DAL.pdb
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\bin\Debug\EntityFramework.dll
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\bin\Debug\EntityFramework.xml
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\obj\Debug\DAL.dll
+C:\Users\namnh74\Documents\GitHub\ATNB_Exam\WebAirportManager\DAL\obj\Debug\DAL.pdb
